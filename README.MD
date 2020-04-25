@@ -68,7 +68,7 @@ $ docker-compose -f zk-single-kafka-single.yml down
 ```
 
 ## Reference:
-- [Apache Kafka docker compose](https://github.com/simplesteph/kafka-stack-docker-compose)
 - [Apache Kafka Quick start](https://kafka.apache.org/quickstart)
-- [Spring boot Kafka configuration](https://dzone.com/articles/magic-of-kafka-with-spring-boot)
 - [Spring for Apache Kafka](https://docs.spring.io/spring-kafka/reference/html/)
+- [Spring boot Kafka configuration](https://dzone.com/articles/magic-of-kafka-with-spring-boot)
+- [Apache Kafka docker compose](https://github.com/simplesteph/kafka-stack-docker-compose)
